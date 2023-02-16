@@ -29,9 +29,6 @@ addButton.addEventListener("click", function() {
     const newBookmarkName = document.getElementById("siteName").value;
     const newBookmarkSite = document.getElementById("siteURL").value;
 
-    
-
-
     let log = document.getElementById("log");
     let li = document.createElement("li");
    

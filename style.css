@@ -1,0 +1,48 @@
+.addBkmrkHdr{
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #ff00cc, 0 0 20px #ff00cc, 0 0 30px #ff00cc, 0 0 40px #ff00cc, 0 0 50px #ff00cc;
+    
+
+}
+
+.myBkmrkHdr{
+    font-family: Georgia;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #ff00cc, 0 0 20px #ff00cc, 0 0 30px #ff00cc, 0 0 40px #ff00cc, 0 0 50px #ff00cc;
+}
+
+button{
+    background: linear-gradient(to bottom, #6bebff, #2b99ff);
+    border-radius: 60%;
+    padding: 10px;
+    margin: 10px;
+  
+}
+
+input {
+    font-size: 16px;
+    padding: 10px;
+    border-bottom: 2px solid rgba(51, 0, 255, 0.495);
+    background-color: lightgrey;
+    color: black;
+    width: 200px;
+    height: 30px;
+}
+
+
+ul {
+    list-style-type: lower-roman;
+}
+
+li {
+    font-family: Georgia;
+    font-size: 25px;
+    color: #333;
+    padding: 5px;
+    margin: 5px 0;
+}
+  
+li:hover {
+    background-color: #eee;
+}
+  
